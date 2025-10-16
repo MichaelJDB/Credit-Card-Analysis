@@ -2,9 +2,6 @@
 
 **Credit Card Customer Churn Analysis** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
 
-# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
-
-
 ## Dataset Content
 * The Credit Card dataset contains just over 10,000 customers' data like Age, Gender, Income category, card category, etc. This dataset can be accessed from the following link: https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers/data
 
