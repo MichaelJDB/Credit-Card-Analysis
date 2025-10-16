@@ -10,11 +10,46 @@
 
 
 ## Business Requirements
-* Describe your business requirements
+A bank manager is concerned about increasing customer churn in their credit card services. The goal is to assess which customers are likely to churn using customer data and develop strategies to improve retention.
 
 
 ## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+## Hypothesis 1:
+Old customers with higher credit limits are less likely to attrite compared to younger customers with lower credit limits.
+
+### Result:
+
+Attrition is more common among younger customers with lower credit limits.
+Older customers with higher limits tend to remain active.
+
+# Hypothesis 2:
+Customers with higher credit limits tend to be older, reflecting a possible correlation between age and financial trustworthiness or creditworthiness.
+
+### Result:
+
+Older customers are more likely to have higher credit limits
+Younger customers are clustered around lower credit limits, suggesting that there is a limited financial history.
+
+# Hypothesis 3:
+Lower-income customers exhibit higher total transaction amounts, suggesting greater reliance on credit card usage.
+
+### Result: 
+
+The customers earning less than $40k have the highest total transaction amount, even more than higher-income groups. This could mean that lower-income groups may use their credit cards more often as they may rely on them for everyday expenses. 
+
+# Hypothesis 4:
+Customers with Blue credit cards are more likely to be retained than those with Silver, Gold, or Platinum cards.
+
+### Result:
+
+Blue cardholders are more likely to stay with the bank than customers with Silver, Gold, or Platinum cards. The Blue card category has teh highest number of existing customers and the lowest number of attrited.
+
+# Hypothesis 5: 
+Card category affects customer retention, with Blue and Silver cards showing loyality than Platinum and Gold. 
+
+### Result: 
+
+Blue and Silver cardholders have the highest retention rates, while Platinum has the lowerst. This supports the idea that card types affect customer loyalty, with Blue and Silver cards being more effective at keeping customers.
 
 ## Project Plan
 * Outline the high-level steps taken for the analysis.
