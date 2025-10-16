@@ -95,19 +95,6 @@ I did encounter a few issues when coding the analysis with getting my code to ru
 * Microsoft Copilot which has supported with me fixing errors along the way and teaching me to get my visualisations to work.
 * Kaggle which provided me with the dataset to create the project.
 
-
-### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign-Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-
-### Media
-
-- The photos used on the home and sign-up page are from This Open-Source site
-- The images used for the gallery page were taken from this other open-source site
-
-
-
 ## Acknowledgements (optional)
-* Thank the people who provided support through this project.
+* Special Thanks to my work coaches: Emma Lamont, Spencer Barriball and Mark Briscoe for the support and knowledge they have given me so far! 
+* Honourable mention of my friends and family that supported me with my well being and encouraging me to keep going. 
